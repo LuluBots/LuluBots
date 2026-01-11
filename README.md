@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m LuluBot!
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2FLuluZhao.github.io">
   <img
     src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2FLuluZhao.github.io&labelColor=%232ccce4&countColor=%230158f9"
@@ -17,9 +17,10 @@
 **About me**
 
 - 😄 I am a first-year Robotics Ph.D. student at [Cornell University](https://www.cs.cornell.edu/about).
-  -   Before that, I interned at [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/).
-- ❤️ Currently, I am exploring caregiving robotics.
-  -  Adaptive manipulation skills.
-  -  Lifelong learning capacities.
-- 💬 Reach me by [email](mailto:hgsdrzgsds@gmail.com) if you are curious about something.
+  -   Before that, I interned at [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/) and [MAE at the Chinese University of Hong Kong](https://www4.mae.cuhk.edu.hk/).
+- ❤️ Currently, I am exploring Multimodal World Models.
+  -  Extracting complex motor skills directly from video.
+  -  Building robust Audio-Visual World Models.
+  -  Identifying the "sweet spot" of abstraction for seamless control.
+- 💬 Always down to [chat](mailto:hgsdrzgsds@gmail.com) about robots, world models, or potential collabs!
 - 🔭 Welcome to see my webpage at [here](https://lulubots.github.io/LuluZhao.github.io/).
