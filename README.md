@@ -19,7 +19,7 @@
 - 😄 I am a first-year Robotics Ph.D. student at [Cornell University](https://www.cs.cornell.edu/about).
   -   Before that, I interned at [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/) and [MAE at the Chinese University of Hong Kong](https://www4.mae.cuhk.edu.hk/).
 - ❤️ Currently, I am exploring Multimodal World Models:
-  -  Extracting complex motor skills directly from video.
+  -  Extracting dexterous motor skills directly from video.
   -  Building robust Audio-Visual World Models.
   -  Identifying the "sweet spot" of abstraction for seamless control.
 - 💬 Always down to [chat](mailto:hgsdrzgsds@gmail.com) about robots, world models, or potential collabs!
