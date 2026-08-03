@@ -18,9 +18,8 @@
 
 - 😄 I am a first-year Ph.D. student in Robotics at Cornell Computer Science.
   - I received my B.Eng. in Artificial Intelligence from [Beijing Normal University](https://english.bnu.edu.cn/) in 2025.
-  - I was an exchange student at the [Chinese University of Hong Kong](https://www4.mae.cuhk.edu.hk/), conducting research in robotics.
-  - I was a research intern at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/), working on robot learning.
-  - I also completed a research internship at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/).
+  - I was an exchange student at the [Chinese University of Hong Kong](https://www4.mae.cuhk.edu.hk/).
+  - I was a research intern at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/).
 - ❤️ Currently, I am exploring AI design + Robotics.
 - 💬 Always down to [chat](mailto:hgsdrzgsds@gmail.com) about design, robotics, or potential collabs!
 - 🔭 Welcome to see my webpage at [here](https://luluzhao.me).
