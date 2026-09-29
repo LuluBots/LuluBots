@@ -1,11 +1,5 @@
 ### Hi there 👋 I’m LuluBot!
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fluluzhao.me">
-  <img
-    src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2FLuluZhao.github.io&labelColor=%232ccce4&countColor=%230158f9"
-    alt="visitor badge"
-    style="margin-top: 8px;"
-  />
-</a>
+
 
 <!--
 <br/>
