@@ -10,7 +10,7 @@
 
 **About me**
 
-- 😄 I am a first-year Ph.D. student in Robotics at Cornell Computer Science.
+- 😄 I am a first-year Ph.D. student in Computer Science at Cornell University.
   - I received my B.Eng. in Artificial Intelligence from [Beijing Normal University](https://english.bnu.edu.cn/) in 2025.
   - I was an exchange student at the [Chinese University of Hong Kong](https://www4.mae.cuhk.edu.hk/).
   - I was a research intern at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/).
